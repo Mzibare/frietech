@@ -1,0 +1,63 @@
+h{
+	float: center;
+}
+h1{
+	text-align: center;
+}
+p{
+	color:auto;
+	size: 16px;font-style: italic;
+}
+.form{
+	border-style:solid ;
+	border-color: red;
+	color: green;
+	height: 300px;
+	width: 200px;
+	background-color: auto;
+	border-radius: auto px;
+}
+.span1
+{
+
+	background-color: auto;
+	border-color:auto;
+	border-width: autopx;
+	display: table-column-group;
+	border-width: 2px;
+
+}
+.liste{
+	border-radius: 15px;
+	border-style: double;
+	text-align: auto;
+	width: 5px;left: 100px;
+	border-bottom-right-radius: 15px;
+	border-width: 10px;
+}
+
+body{
+	background-color:lightblue;
+
+
+}
+.span2{
+	border-style: solid;
+	border-width:1px ;
+	border-radius: auto px;
+	background-color: lightblue;
+	display: inline-block;
+
+}
+.p5{
+	floa
+td{
+	border: 2px darkblue ;
+
+}
+table{
+	border-collapse:auto;
+}
+frietech{
+	border-image:stroke-linejoin ;
+}
